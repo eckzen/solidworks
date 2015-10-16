@@ -106,4 +106,11 @@ Balloons
     Annotation tab
         Balloons
 
+Naming Convention
 
+    Use number as filename
+    Whole number as the main part
+        1 - base part
+    Decimal use for small parts connected to the main part
+        1.1 - sideWidth
+        1.2 - sideLength
