@@ -81,7 +81,18 @@ Title Block
     Edit sheet format
     And click on the portion you want to edit
 
-
+Bill of materials
     
+    Insert > Tables > Bill of materials
+    Default setting OK
+    Drop the table in side the layout
+    Drag and drop the item to rearrange
+
+Eto pala yun
+
+    File > New > Drawing
+        Model View
+            Choose Part or assembly
+                Drag and drop the part or assembly
 
 
