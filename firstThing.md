@@ -13,3 +13,7 @@ In drawing mode
     Click the object
         Adjust the scale
         Adjust thew view
+
+Dimension Font size
+
+    System options > Document Properties > Dimensions > Fonts
