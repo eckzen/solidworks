@@ -95,4 +95,15 @@ Eto pala yun
             Choose Part or assembly
                 Drag and drop the part or assembly
 
+PRINTING
+
++ Scale to fit
++ Letter 8.5"x11"
++ Black an White
+
+Balloons
+
+    Annotation tab
+        Balloons
+
 
