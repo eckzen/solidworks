@@ -69,9 +69,19 @@ Printing
         Projection
 
 File > Page Setup
+
 + Scale to fit
 + Black and White
 + Paper size
 + Orientation
+
+Title Block
+
+    To edit right click on the title block
+    Edit sheet format
+    And click on the portion you want to edit
+
+
+    
 
 
